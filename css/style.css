@@ -1,0 +1,48 @@
+* {
+    margin: 4px;
+    background-color: orange;
+  }
+
+  .title {
+    text-align: center;
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+    text-decoration: underline;
+  }
+
+  .secondary {
+    margin: 20px;
+    text-align: center;
+    background-color: #dfeaf1;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+    text-decoration: underline;
+  }
+
+  .info {
+    background-color: blue;
+  }
+
+  .header-image {
+    height: 300px;
+    text-align: right;
+  }
+
+  .img-container {
+    text-align: center;
+  }
+
+  .info {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    color: black;
+  }
+
+  .third {
+    background-color: blue;
+    padding: 4px;
+    margin: 10px;
+  }
